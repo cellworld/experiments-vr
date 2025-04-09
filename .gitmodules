@@ -1,0 +1,9 @@
+[submodule "servers/CellworldServer"]
+	path = servers/CellworldServer
+	url = git@github.com:felixmaldonadoos/CellworldServer.git
+[submodule "unreal/cellworld_vr"]
+	path = unreal/cellworld_vr
+	url = git@github.com:cellworld/cellworld_vr.git
+[submodule "shared/cellworld_data"]
+	path = shared/cellworld_data
+	url = https://github.com/germanespinosa/cellworld_data.git
